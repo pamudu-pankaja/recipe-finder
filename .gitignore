@@ -1,16 +1,16 @@
-# Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
+# Ignore virtual environments
+venv/
+.env/
 
-## Dependency directory
-## Commenting this out is preferred by some people, see
-## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
-node_modules
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
 
-# Book build output
-_book
+# Ignore logs and database files
+*.log
+*.sqlite3
 
-# eBook build output
-*.epub
-*.mobi
-*.pdf
+# Ignore system files
+.DS_Store
+Thumbs.db
