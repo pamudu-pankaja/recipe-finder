@@ -462,7 +462,7 @@ class RecipeRequestThread(QThread):
         self.amount=amount
 
     def run(self):
-        api_key="d89affa143a24e7c97171fbdba579a7c"
+        api_key="api_key"
         url="https://api.spoonacular.com/recipes/complexSearch"
 
         params={
