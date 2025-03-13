@@ -5,26 +5,11 @@ Recipe Finder is a simple Python project that helps users find recipes based on 
 
 🛠️ Features
 ✅ Search for recipes by ingredient
+
 ✅ View recipe instructions & ingredients
+
 ✅ Lightweight and easy to use
 
-🚀 Installation
-Clone the repository:
-sh
-Copy
-Edit
-git clone https://github.com/master-s-projects/recipe-finder.git
-cd recipe-finder
-Install dependencies:
-sh
-Copy
-Edit
-pip install -r requirements.txt
-Run the program:
-sh
-Copy
-Edit
-python main.py
 🏗️ How It Works
 The user inputs available ingredients.
 The program searches for recipes using an API or database.
