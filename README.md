@@ -2,7 +2,7 @@
 
 📌 Overview :
 
-Recipe Finder is a simple Python project that helps users find recipes based on the ingredients they have. It fetches recipes from an API (or a local dataset) and displays relevant options.
+Recipe Finder is a simple Python project that helps users find recipes based on the ingredients they have. It fetches recipes from an API and displays relevant options.
 
 🛠️ Features
 
@@ -16,8 +16,14 @@ Recipe Finder is a simple Python project that helps users find recipes based on 
 🏗️ How It Works :
 
 The user inputs available ingredients.
-The program searches for recipes using an API or database.
+The program searches for recipes using an API.
 It displays the best-matching recipes along with instructions.
+
+💬API Used:
+
+This project was build using a free api called Spoonacular
+url : https://spoonacular.com/food-api
+
 
 🤝 Contributing :
 
