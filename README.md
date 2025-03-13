@@ -22,7 +22,7 @@ It displays the best-matching recipes along with instructions.
 💬API Used:
 
 This project was build using a free api called Spoonacular
-url : https://spoonacular.com/food-api
+: https://spoonacular.com/food-api
 
 
 🤝 Contributing :
