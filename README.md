@@ -4,7 +4,7 @@
 
 Recipe Finder is a simple Python project that helps users find recipes based on the ingredients they have. It fetches recipes from an API and displays relevant options.
 
-🛠️ Features
+🛠️ Features : 
 
 ✅ Search for recipes by ingredient
 
