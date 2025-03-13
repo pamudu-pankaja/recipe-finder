@@ -19,7 +19,7 @@ The user inputs available ingredients.
 The program searches for recipes using an API.
 It displays the best-matching recipes along with instructions.
 
-💬API Used:
+💬API Used :
 
 This project was build using a free api called Spoonacular
 : https://spoonacular.com/food-api
