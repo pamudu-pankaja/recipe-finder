@@ -230,7 +230,7 @@ class Recipe_Finder(QWidget):
             amount=self.recipe_amount_input.currentText()
             amount=int(amount)
 
-            api_key="d89affa143a24e7c97171fbdba579a7c"
+            api_key="api_key"
             url="https://api.spoonacular.com/recipes/complexSearch"
 
             params={
