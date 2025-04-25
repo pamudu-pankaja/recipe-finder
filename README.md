@@ -21,8 +21,7 @@ It displays the best-matching recipes along with instructions.
 
 💬API Used :
 
-This project was build using a free api called Spoonacular
-: https://spoonacular.com/food-api
+This project was build using a free api called- [Spoonacular](https://spoonacular.com/food-api)
 
 
 🤝 Contributing :
